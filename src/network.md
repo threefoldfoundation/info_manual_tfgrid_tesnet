@@ -4,7 +4,7 @@ This chatflow is used to deploy a network on the grid and to connect your soluti
 
 ## Accessing the solution
 
-Go to the marketplace https://staging.marketplace.threefold.me/marketplace/#/` and click on Network
+Go to the marketplace https://staging.marketplace.threefold.me/marketplace/#/ and click on Network
 
 ![solutions menu](img/network_landing_page.png)
 
