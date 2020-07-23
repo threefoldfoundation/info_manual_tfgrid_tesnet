@@ -1,5 +1,5 @@
 - [Fund your testnet wallet](https://github.com/threefoldtech/js-sdk/blob/development/docs/wiki/tutorials/add_funds_to_wallet.md)
-- [Marketplace](./readme.md)
+- [Marketplace](./marketplace.md)
 - [Network](./network.md)
 - [Ubuntu](./ubuntu.md)
 - [Generic Container](./generic_container.md)
