@@ -4,7 +4,7 @@ Deploy monitoring solution with graphana and prometheus and redis
 
 ## Accessing the solution
 
-Go to the marketplace https://staging.marketplace.threefold.me/marketplace/#/` and click on Monitoring
+Go to the marketplace https://marketplace.grid.tf/marketplace and click on Monitoring
 
 ## Steps
 
