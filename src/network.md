@@ -6,7 +6,7 @@ This chatflow is used to deploy a network on the grid and to connect your soluti
 
 Go to the marketplace https://marketplace.grid.tf/marketplaceand click on Network
 
-![solutions menu](img/network_landing_page.png)
+![solutions menu](./img/network_landing_page.png)
 
 
 ## Inputs
