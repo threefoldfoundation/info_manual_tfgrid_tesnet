@@ -11,5 +11,4 @@
   
 - there're some issue in zos:
   - mainnet https://github.com/threefoldtech/zos/issues/871
-  - capacity pool related (https://github.com/threefoldtech/zos/issues/873, https://github.com/threefoldtech/zos/issues/872)  
   - networks mostly fail when deploying on Mazraa farm because nodes don't respond to the network workload reservation. these workloads remain deployed which causes the network to fail everytime it tries to update. (we tried to harden this flow and delete these workloads, but no guarantee that it works)
