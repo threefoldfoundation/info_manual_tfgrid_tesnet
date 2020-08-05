@@ -64,3 +64,9 @@ Here we confirm the specifications we entered in the chatflow
 
 ### Deployment info
 ![](./img/ubuntu_15.jpg)
+
+### Delete Ubuntu solution
+![](./img/ubuntu_16.jpg)
+
+### Confirm deletion 
+![](./img/ubuntu_17.jpg)
