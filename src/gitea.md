@@ -56,3 +56,11 @@ We select the wallet that we will pay with to proceed with the payment for the s
 
 ### Accessing the UI
 ![](./img/gitea_16.jpg)
+
+### Cancel gitea solution
+
+![Step6](./img/gitea_cancel.png)
+
+### Confirm deletion
+
+![Step7](./img/gitea_cancel2.png)

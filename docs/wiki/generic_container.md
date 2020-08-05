@@ -89,3 +89,11 @@ We select the wallet that we will pay with to proceed with the payment for the s
 
 #### Deployment info
 ![generic_16](img/generic_16.png)
+
+### Cancel generic container solution
+
+![generic_16](./img/flist_cancel.png)
+
+### Confirm deletion
+
+![generic_18](./img/flist_cancel2.png)
