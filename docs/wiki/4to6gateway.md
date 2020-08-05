@@ -24,3 +24,11 @@ You can leave it empty in which case a keypair will be automatically generated.
 ![4to6gw_7](img/4to6gw_7.png)
 
 ![4to6gw_8](img/4to6gw_8.png)
+
+### Cancel 4to6 gateway
+
+![4to6gw_9](./img/4to6_delete.png)
+
+### Confirm deletion
+
+![4to6gw_10](./img/4to6_delete2.png)
