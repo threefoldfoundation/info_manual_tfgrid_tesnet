@@ -1,4 +1,4 @@
-# info_manual_tfgrid_testnet
+# info_tfgrid22_testgroup
 
 - [telegram group](https://t.me/joinchat/BwOvOxxgK59GmRoZ2_sM0w)
 
