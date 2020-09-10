@@ -1,4 +1,3 @@
-set -e
 cd /tmp
 
 echo "INSTALL CRYSTAL TOOLS & TFWEB"
