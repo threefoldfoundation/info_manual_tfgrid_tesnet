@@ -2,6 +2,10 @@ cd /tmp
 
 echo "INSTALL CRYSTAL TOOLS & TFWEB"
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/threefoldfoundation/websites/master/tools/install.sh)"
+if [ ! $? == 0 ]; then
+    echo "CRYSTAL TOOLS DID NOT INSTALL PROPERLY"
+    exit 1
+fi
 
 if ! [ -x "$(command -v curl)" ]; then
     apt update
