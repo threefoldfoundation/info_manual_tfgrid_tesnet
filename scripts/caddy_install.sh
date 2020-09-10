@@ -8,6 +8,12 @@ if ! [ -x "$(command -v curl)" ]; then
     apt install curl -y
 fi
 
+
+if ! [ -x "$(command -v ct)" ]; then
+    echo "CRYSTAL TOOLS DID NOT INSTALL PROPERLY"
+    exit 1
+fi
+
 FILE=/tmp/caddy
 
 #check right version if not remove
