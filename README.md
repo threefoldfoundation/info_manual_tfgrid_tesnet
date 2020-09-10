@@ -13,3 +13,15 @@
 
 - when installing the websites and run the tfweb tool you start also this wiki, easy for development
 
+## tricks
+
+### install caddy & crystal tools
+
+
+
+### install caddy
+
+```
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/threefoldfoundation/info_tfgrid22_testgroup/master/scripts/caddy_install.sh)"
+```
