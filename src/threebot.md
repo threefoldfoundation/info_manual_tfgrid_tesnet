@@ -83,3 +83,9 @@ your solution has backup and resotre you can access them through the dashboard
 ![](./img/threebot_18.png)
 
 ![](./img/threebot_19.png)
+
+### Delete Threebot solution
+![](./img/threebot_20.png)
+
+### Confirm deletion 
+![](./img/threebot_21.png)

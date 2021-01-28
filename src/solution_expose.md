@@ -39,3 +39,9 @@ In this step you can choose one of three domain types:
 
 #### Access your Solution
 ![solution_expose_11](./img/solution_expose_11.png)
+
+### Delete Solution Expose solution
+![](./img/solution_expose_12.png)
+
+### Confirm deletion 
+![](./img/solution_expose_13.png)

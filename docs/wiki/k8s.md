@@ -86,3 +86,11 @@ After the deployment of the Kubernetes cluster is complete, the user with the ss
 ### Accessing the cluster
 ![k8s_16](img/k8s_16.png)
 ![k8s_17](img/k8s_17.png)
+
+### Cancel k8s solution
+
+![k8s_18](./img/k8s_cancel.png)
+
+### Confirm deletion
+
+![k8s_19](./img/k8s_cancel2.png)

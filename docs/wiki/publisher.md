@@ -60,3 +60,9 @@ Payment step
 
 ### Accessing the solution
 ![](./img/publisher_14.jpg)
+
+### Delete Publisher solution
+![](./img/publisher_15.png)
+
+### Confirm deletion 
+![](./img/publisher_16.png)

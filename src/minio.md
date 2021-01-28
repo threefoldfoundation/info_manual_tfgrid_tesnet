@@ -50,3 +50,11 @@ The solution does two reservations, one for ZDB which will be used as backend fo
 
 #### Access your Solution
 ![minio_21](./img/minio_21.png)
+
+### Cancel minio solution
+
+![minio_22](./img/minio_cancel.png)
+
+### Confirm deletion
+
+![minio_23](./img/minio_cancel2.png)

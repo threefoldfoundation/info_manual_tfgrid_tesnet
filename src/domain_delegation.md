@@ -29,3 +29,9 @@ Go to the marketplace https://marketplace.grid.tf/marketplace and click on Domai
 ## Congrats the solution has been deployed now
 
 ![](./img/delegate_6.png)
+
+### Delete Domain Delegation solution
+![](./img/delegate_7.png)
+
+### Confirm deletion 
+![](./img/delegate_8.png)

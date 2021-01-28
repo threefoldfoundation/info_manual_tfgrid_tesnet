@@ -69,3 +69,11 @@ Now you need to configure your machine to access the network by applying the wir
 ## Access solution info from the main screen
 
 ![Step5](./img/network_9.png)
+
+## Cancel network solution
+
+![Step6](./img/network_cancel.png)
+
+### Confirm deletion
+
+![Step7](./img/network_cancel2.png)

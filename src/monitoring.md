@@ -101,3 +101,11 @@ Go to the marketplace https://marketplace.grid.tf/marketplace and click on Monit
 ## Acccess container via web or ssh
 
 ![Step24](./img/monitoring_24.png)
+
+## Cancel monitoring solution
+
+![Step25](./img/monitor_delete.png)
+
+## Confirm deletion
+
+![Step26](./img/monitor_delete2.png)
